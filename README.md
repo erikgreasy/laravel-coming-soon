@@ -5,7 +5,7 @@
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/erikgreasy/laravel-coming-soon/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/erikgreasy/laravel-coming-soon/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/erikgreasy/laravel-coming-soon.svg?style=flat-square)](https://packagist.org/packages/erikgreasy/laravel-coming-soon)
 
-Add coming soon page to your Laravel action without hassle.
+Add coming soon page to your Laravel application without hassle.
 
 ## Installation
 
