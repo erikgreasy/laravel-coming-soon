@@ -1,6 +1,6 @@
 <?php
 
-// config for Erikgreasy/LaravelComingSoon
 return [
-
+    'enabled' => env('COMING_SOON_ENABLED', false),
+    'route' => 'coming-soon',
 ];
