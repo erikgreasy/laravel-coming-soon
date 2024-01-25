@@ -2,9 +2,9 @@
 
 namespace Erikgreasy\LaravelComingSoon\Tests;
 
+use Erikgreasy\LaravelComingSoon\LaravelComingSoonServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Erikgreasy\LaravelComingSoon\LaravelComingSoonServiceProvider;
 
 class TestCase extends Orchestra
 {

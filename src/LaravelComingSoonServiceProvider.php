@@ -2,9 +2,9 @@
 
 namespace Erikgreasy\LaravelComingSoon;
 
+use Erikgreasy\LaravelComingSoon\Commands\LaravelComingSoonCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Erikgreasy\LaravelComingSoon\Commands\LaravelComingSoonCommand;
 
 class LaravelComingSoonServiceProvider extends PackageServiceProvider
 {
